@@ -1,0 +1,28 @@
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.exe.config
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.exe
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.pdb
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.xml
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.vbproj.AssemblyReference.cache
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Form1.resources
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Resources.resources
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.vbproj.GenerateResource.cache
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.vbproj.CoreCompileInputs.cache
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.exe
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.xml
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.pdb
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Form2.resources
+C:\Users\Rhenziel\Documents\2nd Sem (23-24)\ENSC 26 - Visual Basic\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Form3.resources
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.exe.config
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.exe
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.pdb
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\bin\Debug\ENSC 26 Baguio.xml
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.vbproj.AssemblyReference.cache
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Form1.resources
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Form2.resources
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Form3.resources
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC_26_Baguio.Resources.resources
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.vbproj.GenerateResource.cache
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.vbproj.CoreCompileInputs.cache
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.exe
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.xml
+C:\Users\Yuri Miguel Reyes\OneDrive - University of the Philippines\Desktop\ENSC 26 Baguio\ENSC 26 Baguio\ENSC 26 Baguio\obj\Debug\ENSC 26 Baguio.pdb
